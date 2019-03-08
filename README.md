@@ -1,2 +1,1 @@
-# deifyassessments71_dfy
-Deify Assessments Portal for iBeads
+Deify Assessments and Portal for ibeads
